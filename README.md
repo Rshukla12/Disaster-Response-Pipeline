@@ -26,5 +26,9 @@ This is the frontpage:
 By inputting a word, you can check its category:
 ![Alt text](https://github.com/janierkkilae/Disaster-Response-Pipelines/blob/master/Screenshot2.PNG?raw=true "Screenshot2")
 
+## Additional Resources
+
+[env](https://github.com/Rshukla12/myenv)
+
 ## About
 This project was prepared as part of the Udacity Data Scientist nanodegree programme. The data was provided by Figure Eight. 
